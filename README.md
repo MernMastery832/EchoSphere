@@ -1,8 +1,11 @@
-markdown
-Copy code
+
 # SocialEcho
 
 A social networking platform with automated content moderation and a context-based authentication system.
+
+Watch Demo
+
+UI-community
 
 ## Project Overview
 
@@ -50,26 +53,8 @@ SocialEcho is a social networking platform built using the MERN (MongoDB, Expres
 - Moderator dashboard for community oversight
 - Email notifications for suspicious login attempts
 
-## Snapshots
-
-### Home Page
-![Home Page](path_to_your_image/homepage.png)
-
-### Admin Dashboard
-![Admin Dashboard](path_to_your_image/admin_dashboard.png)
-
-### Moderator Dashboard
-![Moderator Dashboard](path_to_your_image/moderator_dashboard.png)
-
-## My Contributions
-- Developed the automated content moderation system utilizing various NLP APIs.
-- Implemented context-based authentication to enhance user security.
-- Created user interface components using React.js and integrated them with backend services.
-- Set up the database schema and managed data interactions with MongoDB.
-- Designed the admin and moderator dashboards for effective community management.
-
-## Impact
-SocialEcho aims to provide a safe and engaging environment for users to connect and share content. By leveraging automated content moderation and context-based authentication, the platform ensures compliance with community guidelines and protects user accounts from unauthorized access. The implementation of these features not only enhances user experience but also fosters a positive online community.
+Schema Diagram
+Schema Diagram
 
 ## Getting Started
 
@@ -111,6 +96,15 @@ Copy code
 ./admin_tool.sh
 .env Variables
 For email service and content moderation, set the required variables in your .env file.
+## My Contributions
+- Developed the automated content moderation system utilizing various NLP APIs.
+- Implemented context-based authentication to enhance user security.
+- Created user interface components using React.js and integrated them with backend services.
+- Set up the database schema and managed data interactions with MongoDB.
+- Designed the admin and moderator dashboards for effective community management.
+
+## Impact
+SocialEcho aims to provide a safe and engaging environment for users to connect and share content. By leveraging automated content moderation and context-based authentication, the platform ensures compliance with community guidelines and protects user accounts from unauthorized access. The implementation of these features not only enhances user experience but also fosters a positive online community.
 
 License
 This project is licensed under the MIT License.
