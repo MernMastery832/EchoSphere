@@ -3,13 +3,12 @@
 
 A social networking platform with automated content moderation and a context-based authentication system.
 
-Watch Demo
-
-UI-community
+![WhatsApp Image 2024-11-01 at 3 42 26 PM](https://github.com/user-attachments/assets/25136041-2cfe-48b4-8058-1118cd896568)
 
 ## Project Overview
 
 SocialEcho is a social networking platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It incorporates two major features: an automated content moderation system and context-based authentication. Users can enjoy standard social media functionalities, such as profile creation, post creation and sharing, liking and commenting on posts, and following/unfollowing users.
+
 
 ## Tech Stack
 
@@ -52,9 +51,7 @@ SocialEcho is a social networking platform built using the MERN (MongoDB, Expres
 - Admin dashboard for system management
 - Moderator dashboard for community oversight
 - Email notifications for suspicious login attempts
-
-Schema Diagram
-Schema Diagram
+![WhatsApp Image 2024-11-01 at 3 45 31 PM](https://github.com/user-attachments/assets/25ca8440-23e6-47ed-a1da-86aa3f06bf73)
 
 ## Getting Started
 
