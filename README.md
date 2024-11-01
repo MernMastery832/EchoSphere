@@ -16,7 +16,7 @@ SocialEcho is a social networking platform built using the MERN (MongoDB, Expres
 - **React.js**
 - **Redux**
 - **Tailwind CSS**
-
+  
 ---
 
 ### Backend
@@ -30,17 +30,6 @@ SocialEcho is a social networking platform built using the MERN (MongoDB, Expres
 - **JWT Authentication**
 - **Passport.js**
 - **Crypto-js** (for data encryption)
-
----
-
-### Content Moderation
-- **Flask** (for running the BART Large MNLI model)
-- **Hugging Face Transformers**
-- **Perspective API**
-- **TextRazor API**
-### Additional Tools
-- **Nodemailer** (for email notifications)
-- **Azure Blob Storage** (for file storage)
 
 ## Key Features
 - User authentication and authorization (JWT)
