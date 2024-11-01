@@ -1,5 +1,5 @@
 
-# SocialEcho
+# EchoSphere
 
 A social networking platform with automated content moderation and a context-based authentication system.
 
@@ -17,22 +17,27 @@ SocialEcho is a social networking platform built using the MERN (MongoDB, Expres
 - **Redux**
 - **Tailwind CSS**
 
+---
+
 ### Backend
 - **Node.js**
 - **Express.js**
 - **MongoDB**
+
+---
 
 ### Authentication & Security
 - **JWT Authentication**
 - **Passport.js**
 - **Crypto-js** (for data encryption)
 
+---
+
 ### Content Moderation
 - **Flask** (for running the BART Large MNLI model)
 - **Hugging Face Transformers**
 - **Perspective API**
 - **TextRazor API**
-
 ### Additional Tools
 - **Nodemailer** (for email notifications)
 - **Azure Blob Storage** (for file storage)
