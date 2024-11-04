@@ -40,6 +40,7 @@ SocialEcho is a social networking platform built using the MERN (MongoDB, Expres
 - Admin dashboard for system management
 - Moderator dashboard for community oversight
 - Email notifications for suspicious login attempts
+## Snapshot
 ![WhatsApp Image 2024-11-01 at 3 45 31 PM](https://github.com/user-attachments/assets/25ca8440-23e6-47ed-a1da-86aa3f06bf73)
 
 ## My Contributions
