@@ -9,27 +9,22 @@ A social networking platform with automated content moderation and a context-bas
 
 SocialEcho is a social networking platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It incorporates two major features: an automated content moderation system and context-based authentication. Users can enjoy standard social media functionalities, such as profile creation, post creation and sharing, liking and commenting on posts, and following/unfollowing users.
 
-
 ## Tech Stack
 
-### Frontend
-- **React.js**
-- **Redux**
-- **Tailwind CSS**
-  
----
+## Frontend
+- ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) React.js
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) Redux
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
 
-### Backend
-- **Node.js**
-- **Express.js**
-- **MongoDB**
+## Backend
+- ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) Node.js
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) Express.js
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
 
----
-
-### Authentication & Security
-- **JWT Authentication**
-- **Passport.js**
-- **Crypto-js** (for data encryption)
+## Authentication & Security
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) JWT Authentication
+- ![Passport.js](https://img.shields.io/badge/Passport.js-000000?style=flat&logo=passport&logoColor=white) Passport.js
+- ![Crypto-js](https://img.shields.io/badge/Crypto.js-8A3FFC?style=flat&logo=javascript&logoColor=white) Crypto-js (for data encryption)
 
 ## Key Features
 - User authentication and authorization (JWT)
